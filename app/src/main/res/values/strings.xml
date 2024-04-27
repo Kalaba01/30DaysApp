@@ -1,0 +1,124 @@
+<resources>
+    <string name="app_name">DaysApp</string>
+
+    <string name="day_1">Dan 1</string>
+    <string name="title_1">Zdravo za početak: Ovsena kaša s voćem</string>
+    <string name="desc_1">Početak tridesetodnevnog kulinarskog izazova neka bude lagana i zdrava ovsena kaša s voćem. Ova jednostavna, a hranljiva opcija je savršena za energičan početak dana. Pomešajte ovsene pahuljice s mlekom (ili biljnim mlekom ako ste vegani), dodajte malo meda za slatkoću i voće po izboru. Možete koristiti sezonu svežeg voća ili smrznuto ako vam je praktičnije. Ovsena kaša je puna vlakana koja će vas zasititi i dati vam energiju za predstojeći dan.</string>
+
+    <string name="day_2">Dan 2</string>
+    <string name="title_2">Brzi i zdravi sendvič s piletinom i avokadom</string>
+    <string name="desc_2">Za drugi dan predlažem brzi sendvič koji je pun proteina i zdravih masti. Uzmite parče integralnog hleba, namažite ga avokadom, dodajte komade pečene piletine, paradajza i lista zelene salate. Ovaj sendvič je ne samo ukusan, već i hranljiv, idealan za brzinski ručak.</string>
+
+    <string name="day_3">Dan 3</string>
+    <string name="title_3">Pileći kari sa pirinčem</string>
+    <string name="desc_3">Pileći kari sa pirinčem je odličan izbor za danas. Ovaj bogati i aromatični indijski specijalitet će vas zagrejati i zadovoljiti vaša čula. Kari sos se priprema od začina poput kurkume, kumina, korijandera i čilija, kojima dodajete kuvano pileće meso, kokosovo mleko i povrće po izboru. Poslužite ga sa kuvanim integralnim pirinčem za savršen obrok.</string>
+
+    <string name="day_4">Dan 4</string>
+    <string name="title_4">Pesto piletina s pečenim povrćem</string>
+    <string name="desc_4">Za danas, predlažem jednostavan, ali izvanredno ukusan obrok - pesto piletinu s pečenim povrćem. Marinirajte pileća prsa u pestu (možete koristiti kupovni pesto ili ga napraviti sami od bosiljka, pinjola, parmezana, maslinovog ulja i belog luka), a zatim pecite u rerni. Uz to pripremite pečeno povrće po izboru - paprike, tikvice, patlidžan i cherry paradajz, za savršeno uravnotežen obrok.</string>
+
+    <string name="day_5">Dan 5</string>
+    <string name="title_5">Tjestenina s povrćem i pestom</string>
+    <string name="desc_5">Za danas predlažem tjesteninu s povrćem i pestom. Skuvajte integralnu tjesteninu, a zatim je pomešajte sa pečenim povrćem (npr. paprika, tikvice, cherry paradajz) i pestom. Ovaj brzi i ukusni obrok je pun boja, arome i hranljivih sastojaka. Savršen izbor za dan kada ste u žurbi, ali želite nešto ukusno i zdravo.</string>
+
+    <string name="day_6">Dan 6</string>
+    <string name="title_6">Pohana pileća prsa s krompirom iz rerne</string>
+    <string name="desc_6">Za danas predlažem klasični obrok - pohana pileća prsa s krompirom iz rerne. Pileća prsa uvaljajte u brašno, jaje i prezle, pa ih pecite u tiganju dok ne postanu hrskava. Poslužite ih uz krompir iz rerne, začinjen sa solju, biberom i maslinovim uljem. Jednostavno, ali veoma ukusno jelo.</string>
+
+    <string name="day_7">Dan 7</string>
+    <string name="title_7">Piletina u medu i soja sosu sa kuvanim povrćem</string>
+    <string name="desc_7">Za danas predlažem piletinu u medu i soja sosu sa kuvanim povrćem. Piletinu marinirajte u smeši meda, soja sosa, belog luka i đumbira, a zatim je pecite u rerni ili na tiganju. Poslužite je sa kuvanim povrćem po izboru - šargarepa, brokoli, karfiol. Ovo jelo je puno ukusa i hranljivih sastojaka, a priprema se brzo i jednostavno.</string>
+
+    <string name="day_8">Dan 8</string>
+    <string name="title_8">Salata od kinoe i povrća</string>
+    <string name="desc_8">Za danas predlažem osvežavajuću salatu od kinoe i povrća. Skuvajte kinou prema uputstvu na pakovanju, a zatim je pomešajte sa sitno seckanim povrćem po izboru (npr. krastavac, paradajz, paprika, masline). Dodajte malo iseckanog peršuna i začinite sa maslinovim uljem, sokom od limuna, solju i biberom. Ova salata je bogata proteinima, vlaknima i antioksidansima, idealna za ručak ili večeru.</string>
+
+    <string name="day_9">Dan 9</string>
+    <string name="title_9">Losos na žaru sa šparglom</string>
+    <string name="desc_9">Za danas predlažem lagani, ali izuzetno ukusan obrok - losos na žaru sa šparglom. Losos marinirajte u maslinovom ulju, limunovom soku, belom luku i začinima, a zatim ga pecite na žaru. Uz to poslužite šparglu koju ste blanširali i potom kratko propržili na tiganju sa maslinovim uljem i belim lukom. Ovo jelo je bogato omega-3 masnim kiselinama, proteinima i vlaknima.</string>
+
+    <string name="day_10">Dan 10</string>
+    <string name="title_10">Piletina u paradajz sosu sa integralnom testeninom</string>
+    <string name="desc_10">Za danas predlažem jednostavnu i ukusnu piletinu u paradajz sosu sa integralnom testeninom. Piletinu ispecite na tiganju, a zatim je poslužite uz integralnu testeninu koju ste prethodno skuhali. Za sos koristite paradajz sos iz tegle kojem možete dodati začine po ukusu (origano, bosiljak, beli luk). Ovo jelo je ukusno, hranljivo i brzo za pripremu.</string>
+
+    <string name="day_11">Dan 11</string>
+    <string name="title_11">Vegetarijanski burito sa avokadom i povrćem</string>
+    <string name="desc_11">Za danas predlažem ukusni vegetarijanski burito sa avokadom i povrćem. Napunite tortilje kuvanim crnim ili belim pasuljem, pirinčem, iseckanim avokadom, paprikom, paradajzom, sirom i kiselim mlekom. Zatim ih zarolajte i pecite u tiganju ili u rerni. Ove ukusne i hranljive buritose možete poslužiti uz salsa sos i kiselo mleko.</string>
+
+    <string name="day_12">Dan 12</string>
+    <string name="title_12">Pileći rolnice sa šunkom i sirom</string>
+    <string name="desc_12">Za danas predlažem pileće rolnice sa šunkom i sirom. Tanko isecite pileća prsa, pa svaku šniclu punite kriškama šunke i sira. Uvijte ih u rolnice, pričvrstite čačkalicama i pecite u rerni. Ovo jelo je ukusno, hranljivo i izuzetno atraktivno. Poslužite ga sa prilogom po izboru, kao što su pire krompir ili bareni krompir sa maslacem.</string>
+
+    <string name="day_13">Dan 13</string>
+    <string name="title_13">Tikvice punjene mesom i povrćem</string>
+    <string name="desc_13">Za danas predlažem tikvice punjene mesom i povrćem. Izdubite tikvice, pa ih napunite smesom od mlevenog mesa, iseckane šargarepe, luka, belog luka, začina po ukusu i paradajz sosa. Pecite ih u rerni dok ne postanu mekane i hrskave. Ovo jelo je bogato proteinima, vlaknima i vitaminima.</string>
+
+    <string name="day_14">Dan 14</string>
+    <string name="title_14">Lagana pileća salata sa avokadom</string>
+    <string name="desc_14">Za danas predlažem lagani obrok - pileća salata sa avokadom. Skuvajte i isecite pileća prsa na kockice, pa ih pomešajte sa iseckanim avokadom, paradajzom, krastavcem, listovima zelene salate i prelivom od maslinovog ulja, limunovog soka, soli i bibera. Ova osvežavajuća salata je bogata proteinima, zdravim mastima i vlaknima.</string>
+
+    <string name="day_15">Dan 15</string>
+    <string name="title_15">Quinoa salata sa pečenim povrćem</string>
+    <string name="desc_15">Za danas predlažem quinoa salatu sa pečenim povrćem. Skuvajte quinou prema uputstvu na pakovanju, a zatim je pomešajte sa pečenim povrćem po izboru (npr. paprika, tikvice, patlidžan, cherry paradajz) i feta sirom. Dodajte malo iseckanog peršuna i začinite sa maslinovim uljem, sokom od limuna, solju i biberom. Ova salata je bogata proteinima, vlaknima i antioksidansima, idealna za ručak ili večeru.</string>
+
+    <string name="day_16">Dan 16</string>
+    <string name="title_16">Pileća supa sa povrćem</string>
+    <string name="desc_16">Za danas predlažem toplu i hranljivu pileću supu sa povrćem. U šerpu stavite pileće meso, luk, šargarepu, celer i so, pa prelijte vodom i kuvajte dok meso ne omekša. Zatim izvadite meso, isecite ga na komade i vratite u supu. Dodajte kuvani pirinač ili rezance od celovitih žitarica za dodatnu hranljivost. Ova supa će vas zagrejati i ispuniti vas energijom.</string>
+
+    <string name="day_17">Dan 17</string>
+    <string name="title_17">Piletina sa kikiriki sosom</string>
+    <string name="desc_17">Za danas predlažem pileća prsa sa kikiriki sosom. Pileća prsa ispecite na tiganju, a zatim ih prelijte sosom od kikirikija (kikiriki puter, soja sos, med, đumbir, beli luk, limunov sok). Poslužite ih uz kuvani pirinač i povrće po izboru. Ovo jelo je bogato proteinima, zdravim mastima i ukusnim aromama.</string>
+
+    <string name="day_18">Dan 18</string>
+    <string name="title_18">Vegetarijanski stir-fry sa tofuom i povrćem</string>
+    <string name="desc_18">Za danas predlažem brzi i ukusni vegetarijanski stir-fry sa tofuom i povrćem. Tofu isecite na kockice i pržite na tiganju dok ne postane hrskav. Dodajte iseckano povrće po izboru (npr. šargarepu, papriku, brokoli, crveni luk) i dinstajte dok ne omekša. Začinite soja sosom, đumbirom, belim lukom i susamovim uljem. Poslužite uz kuvani pirinač ili rezance od celovitih žitarica.</string>
+
+    <string name="day_19">Dan 19</string>
+    <string name="title_19">Pileća tikka masala sa integralnim pirinčem</string>
+    <string name="desc_19">Za danas predlažem indijsko jelo - pileća tikka masala sa integralnim pirinčem. Pileće meso marinirajte u jogurtu i začinima (kurkuma, kumin, korijander, đumbir, čili), a zatim ga pecite na tiganju. Napravite sos od paradajz sosa, jogurta, začina i kokosovog mleka, pa dodajte ispečeno pileće meso. Poslužite uz kuvani integralni pirinač za ukusan i hranljiv obrok.</string>
+
+    <string name="day_20">Dan 20</string>
+    <string name="title_20">Pileća salata sa nautom i avokadom</string>
+    <string name="desc_20">Za danas predlažem pileću salatu sa nautom i avokadom. Skuvajte nautu, pa je pomešajte sa iseckanim pečenim pilećim prsima, avokadom, cherry paradajzom, listovima zelene salate i prelivom od maslinovog ulja, limunovog soka, soli i bibera. Ova osvežavajuća salata je bogata proteinima, zdravim mastima i vlaknima.</string>
+
+    <string name="day_21">Dan 21</string>
+    <string name="title_21">Piletina u sosu od senfa i meda</string>
+    <string name="desc_21">Za danas predlažem piletinu u sosu od senfa i meda. Pileća prsa ispecite na tiganju, a zatim ih prelijte sosom od senfa, meda, belog luka, limunovog soka i začina po ukusu. Poslužite uz kuvani pirinač i povrće po izboru. Ovo jelo je bogato proteinima, zdravim mastima i slatkastim aromama.</string>
+
+    <string name="day_22">Dan 22</string>
+    <string name="title_22">Vegetarijanski quiche sa spanaćem i sirom</string>
+    <string name="desc_22">Za danas predlažem vegetarijanski quiche sa spanaćem i sirom. Napravite testo od brašna, maslaca i vode, pa ga stavite u pleh za pečenje. Na testo rasporedite spanać, naseckani crni luk i izrendani sir. Prelijte smesom od jaja i mleka, pa pecite u rerni dok ne porumeni. Ovaj quiche je ukusan, hranljiv i veoma jednostavan za pripremu.</string>
+
+    <string name="day_23">Dan 23</string>
+    <string name="title_23">Pileća pasta Alfredo sa pečenim povrćem</string>
+    <string name="desc_23">Za danas predlažem pileću pastu Alfredo sa pečenim povrćem. Skuvajte pastu prema uputstvu na pakovanju, a zatim je pomešajte sa pečenim povrćem po izboru (npr. šargarepa, brokoli, tikvice, cherry paradajz) i pilećim mesom. Začinite sa sosom Alfredo (puter, pavlaka za kuvanje, parmezan), solju i biberom. Ovo jelo je bogato ukusima i hranljivim sastojcima.</string>
+
+    <string name="day_24">Dan 24</string>
+    <string name="title_24">Rižoto sa pečurkama i pilećim mesom</string>
+    <string name="desc_24">Za danas predlažem rižoto sa pečurkama i pilećim mesom. Skuvajte pirinač, a zatim ga dinstajte sa iseckanim lukom, pečurkama i pilećim mesom dok ne omekša. Dodajte malo belog vina, pilećeg bujona i parmezana, pa kuvajte dok ne dobijete kremastu teksturu. Ovo jelo je bogato aromama i veoma zadovoljavajuće.</string>
+
+    <string name="day_25">Dan 25</string>
+    <string name="title_25">Vegetarijanski chilli sin carne</string>
+    <string name="desc_25">Za danas predlažem vegetarijanski chilli sin carne. Napravite sos od crvenog pasulja, paradajz sosa, luka, paprike, kukuruza, začina po ukusu (kumin, čili, bosiljak) i malo čokolade. Dinstajte sve sastojke dok ne omekšaju i sjedine se u bogat i aromatičan sos. Poslužite uz integralni pirinač ili tortilje.</string>
+
+    <string name="day_26">Dan 26</string>
+    <string name="title_26">Pileći wrap sa avokadom i humusom</string>
+    <string name="desc_26">Za danas predlažem brzi i ukusni pileći wrap sa avokadom i humusom. Stavite pečena pileća prsa na tortilju, a zatim dodajte kriške avokada, humus, iseckano povrće po izboru (npr. paprika, krastavac, paradajz) i listove zelene salate. Zarolajte tortilju i uživajte u ovom zdravom obroku.</string>
+
+    <string name="day_27">Dan 27</string>
+    <string name="title_27">Pileća čorba sa povrćem</string>
+    <string name="desc_27">Za danas predlažem toplu i hranljivu pileću čorbu sa povrćem. U šerpu stavite pileće meso, iseckano povrće po izboru (npr. šargarepu, krompir, celer, crni luk), so i biber, pa prelijte vodom i kuvajte dok povrće ne omekša. Dodajte kuvani pirinač ili rezance od celovitih žitarica za dodatnu hranljivost. Ova čorba će vas zagrejati i ispuniti energijom.</string>
+
+    <string name="day_28">Dan 28</string>
+    <string name="title_28">Lazanje sa špinatom i mocarelom</string>
+    <string name="desc_28">Za danas predlažem lazanje sa špinatom i mocarelom. Napravite sos od paradajz sosa, luka, belog luka, origana, bosiljka, soli i bibera. Na dno pleha stavite malo sosa, pa ređajte kuvane lazanje, spanać, mocarelu i sos. Ponavljajte postupak dok ne potrošite sve sastojke. Pecite u rerni dok lazanje ne postanu zlatno smeđe. Ova lazanja je ukusna, hranljiva i veoma zadovoljavajuća.</string>
+
+    <string name="day_29">Dan 29</string>
+    <string name="title_29">Pohovane lignje sa tartar sosom</string>
+    <string name="desc_29">Za danas predlažem pohovane lignje sa tartar sosom. Lignje isecite na kolutove, uvaljajte u brašno, jaje i prezle, pa ih pecite u dubokom ulju dok ne postanu hrskave. Poslužite ih uz tartar sos (majonez, sitno seckani kiseli krastavci, kapar, peršun, limunov sok). Ovo jelo je ukusno, hrskavo i veoma zadovoljavajuće.</string>
+
+    <string name="day_30">Dan 30</string>
+    <string name="title_30">Piletina sa susamom i povrćem</string>
+    <string name="desc_30">Za poslednji dan predlažem piletinu sa susamom i povrćem. Pileća prsa isecite na trake, pa ih pecite na tiganju sa susamom dok ne postanu hrskava. Dodajte iseckano povrće po izboru (npr. paprika, šargarepa, brokoli) i dinstajte dok ne omekša. Začinite soja sosom, đumbirom, belim lukom i malo meda. Poslužite uz kuvani pirinač ili rezance od celovitih žitarica. Ovo jelo je puno ukusa i hranljivih sastojaka, idealno za završetak 30 dana raznovrsnih recepata.</string>
+
+</resources>
